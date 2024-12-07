@@ -85,8 +85,3 @@
 // let d = 9
 // let result = c + d 
 // console.log(result)
-
-
-
-
-
